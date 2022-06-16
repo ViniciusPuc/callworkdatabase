@@ -1,0 +1,23 @@
+{
+  "name": "callworkdatabase",
+  "version": "1.0.0",
+  "description": "A simple API for simulate callwork database - project PUC-Minas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViniciusPuc/callworkdatabase.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViniciusPuc/callworkdatabase/issues"
+  },
+  "homepage": "https://github.com/ViniciusPuc/callworkdatabase#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
