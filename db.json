@@ -8,7 +8,8 @@
       "nome": "Vinicius Lacerda",
       "senha": "12345",
       "idade": 23,
-      "profissao": "Desenvolvedor"
+      "profissao": "Desenvolvedor",
+      "telefone": "31999999999"
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "nome": "Arthur Proença",
       "senha": "12345",
       "idade": 99,
-      "profissao": "Desenvolvedor"
+      "profissao": "Desenvolvedor",
+      "telefone": "31999999999"
     },
     {
       "id": 3,
@@ -28,7 +30,8 @@
       "nome": "Pamela Almeida",
       "senha": "12345",
       "idade": 99,
-      "profissao": "Desenvolvedor"
+      "profissao": "Desenvolvedor",
+      "telefone": "31999999999"
     },
     {
       "id": 4,
@@ -38,7 +41,8 @@
       "nome": "Gustavo Moura",
       "senha": "12345",
       "idade": 99,
-      "profissao": "Desenvolvedor"
+      "profissao": "Desenvolvedor",
+      "telefone": "31999999999"
     },
     {
       "id": 5,
@@ -48,7 +52,8 @@
       "nome": "Italo Braga",
       "senha": "12345",
       "idade": 99,
-      "profissao": "Desenvolvedor"
+      "profissao": "Desenvolvedor",
+      "telefone": "31999999999"
     },
     {
       "id": 6,
@@ -58,7 +63,8 @@
       "nome": "Matheus Henrique",
       "senha": "12345",
       "idade": 99,
-      "profissao": "Desenvolvedor"
+      "profissao": "Desenvolvedor",
+      "telefone": "31999999999"
     }
   ],
   "posts": [
