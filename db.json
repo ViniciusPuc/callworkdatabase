@@ -136,15 +136,6 @@
     {
       "id": 6,
       "publications": [
-        {
-          "id_post": 1,
-          "title": "titulo do trabalho",
-          "category": "categoria",
-          "date_pub": "dd/mm/aaaa hh:mm:ss",
-          "num_inter": 0,
-          "description": "lorem ipsum",
-          "price": 12
-        }
       ]
     }
   ],
