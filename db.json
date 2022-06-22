@@ -8,8 +8,13 @@
       "nome": "Vinicius Lacerda",
       "senha": "12345",
       "idade": 23,
+<<<<<<< HEAD
       "telefone": 31999999999,
       "profissao": "Desenvolvedor"
+=======
+      "profissao": "Desenvolvedor",
+      "telefone": "31999999999"
+>>>>>>> 52522837aff8c573857c84644e4c506dec440154
     },
     {
       "id": 2,
@@ -19,8 +24,13 @@
       "nome": "Arthur Proença",
       "senha": "12345",
       "idade": 99,
+<<<<<<< HEAD
       "telefone": 31999999999,
       "profissao": "Desenvolvedor"
+=======
+      "profissao": "Desenvolvedor",
+      "telefone": "31999999999"
+>>>>>>> 52522837aff8c573857c84644e4c506dec440154
     },
     {
       "id": 3,
@@ -30,8 +40,13 @@
       "nome": "Pamela Almeida",
       "senha": "12345",
       "idade": 99,
+<<<<<<< HEAD
       "telefone": 31999999999,
       "profissao": "Desenvolvedor"
+=======
+      "profissao": "Desenvolvedor",
+      "telefone": "31999999999"
+>>>>>>> 52522837aff8c573857c84644e4c506dec440154
     },
     {
       "id": 4,
@@ -41,8 +56,13 @@
       "nome": "Gustavo Moura",
       "senha": "12345",
       "idade": 99,
+<<<<<<< HEAD
       "telefone": 31999999999,
       "profissao": "Desenvolvedor"
+=======
+      "profissao": "Desenvolvedor",
+      "telefone": "31999999999"
+>>>>>>> 52522837aff8c573857c84644e4c506dec440154
     },
     {
       "id": 5,
@@ -52,8 +72,13 @@
       "nome": "Italo Braga",
       "senha": "12345",
       "idade": 99,
+<<<<<<< HEAD
       "telefone": 31999999999,
       "profissao": "Desenvolvedor"
+=======
+      "profissao": "Desenvolvedor",
+      "telefone": "31999999999"
+>>>>>>> 52522837aff8c573857c84644e4c506dec440154
     },
     {
       "id": 6,
@@ -63,8 +88,13 @@
       "nome": "Matheus Henrique",
       "senha": "12345",
       "idade": 99,
+<<<<<<< HEAD
       "telefone": 31999999999,
       "profissao": "Desenvolvedor"
+=======
+      "profissao": "Desenvolvedor",
+      "telefone": "31999999999"
+>>>>>>> 52522837aff8c573857c84644e4c506dec440154
     }
   ],
   "posts": [
@@ -151,15 +181,6 @@
     {
       "id": 6,
       "publications": [
-        {
-          "id_post": 1,
-          "title": "titulo do trabalho",
-          "category": "categoria",
-          "date_pub": "dd/mm/aaaa hh:mm:ss",
-          "num_inter": 0,
-          "description": "lorem ipsum",
-          "price": 12
-        }
       ]
     }
   ],
