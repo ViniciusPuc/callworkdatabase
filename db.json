@@ -87,11 +87,11 @@
       "publications": [
         {
           "id_post": 1,
-          "title": "Pintar a sala de estar",
-          "category": "mecânico",
+          "title": "Consertar portão eletrônico",
+          "category": "eletricista",
           "date_pub": "26/05/2022 15:11:42",
           "num_inter": 0,
-          "description": "Preciso de algum pintor para consertar a pintura da parede que minha cachorrinha destruiu.",
+          "description": "Preciso de algum eletricista.",
           "price": 220
         }
       ]
@@ -153,12 +153,12 @@
       "publications": [
         {
           "id_post": 1,
-          "title": "titulo do trabalho",
-          "category": "categoria",
-          "date_pub": "dd/mm/aaaa hh:mm:ss",
+          "title": "Pintar a sala de estar",
+          "category": "pintor",
+          "date_pub": "26/05/2022 15:11:42",
           "num_inter": 0,
-          "description": "lorem ipsum",
-          "price": 12
+          "description": "Preciso de algum pintor para consertar a pintura da parede que minha cachorrinha destruiu.",
+          "price": 220
         }
       ]
     }
